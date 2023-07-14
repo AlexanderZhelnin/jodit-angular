@@ -1,0 +1,21 @@
+{
+  "name": "sat-jodit",
+  "version": "1.0.1",
+  "license": "MIT",
+  "description": "Обёртка для работы с jodit",
+  "homepage": "https://www.youtube.com/channel/UCGntVzOD7faGCYbrUfd8PQg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexanderZhelnin/jodit-angular"
+  },
+  "author": {
+    "name": "Александр Желнин",
+    "url": "https://www.youtube.com/channel/UCGntVzOD7faGCYbrUfd8PQg"
+  },
+  "keywords": [
+    "jodit"
+  ],
+  "peerDependencies": {},
+  "dependencies": {},
+  "sideEffects": false
+}
