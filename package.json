@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "version": "cd ./projects/sat-common && npm version patch && cd ../../",
+    "version": "cd ./projects/sat-jsodit && npm version patch && cd ../../",
     "publish": "npm run version && ng build sat-jodit && cd dist/sat-jodit && npm pack && npm publish"
   },
   "private": true,
